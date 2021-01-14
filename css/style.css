@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #f8f8f8;
+}
+header{
+    background-color: #fffbf0;
+}
+.nav-list-style .list-link{
+    color: black;
+    padding:1em;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nav-style .nav-logo img{
+    width: 70%;
+}
+.first-section{
+    background-color: #fffbf0;
+}
+.first .row img{
+    width: 100%;
+}
+.row-col-first-h1{
+    color:#fabe4c; 
+    font-size: 60px;  
+    font-family: 'Anton', sans-serif;
+}
+.row-col-second-h1{
+    color: #363958; 
+    font-size: 60px;  
+    font-family: 'Anton', sans-serif;
+}
+#first-button{
+    background-color: #8ca724; 
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 0.4em;
+}
+#first-button:hover{
+    color: black;
+}
+/* closing introducing section  */
+
+/* start women and men section card */
+.jacket-image img{
+    width: 100%;
+}
+.jacket-image{
+    background-color: #f1f1f1;
+    margin: 0 auto;
+    border-radius: 2em;
+    width: 90%;
+    height: 70%;
+
+}
+.jacket-card-title-color{
+    color: #363958;
+    font-weight: bold;
+    font-size: 30px;
+}
+.jacket-card-border{
+    border: 0;
+}
+.footer-border{
+    border: 0;
+    background-color: #ffffff;
+}
+.price{
+    color: #fabe4c;
+    font-size: 33px;
+    font-family: 'Anton', sans-serif;
+}
+.jacket-title{
+    color: #363958;
+    font-weight: bolder;
+    padding-bottom: 2em;
+}
+.all-card-button{
+    background-color: #8ca724; 
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 0.4em;
+}
+.all-card-button:hover{
+    color: black;
+}
+/* closing card section  */
+
+/* start adjust section  */
+.icon-side-image img{
+    width: 100%;
+}
+.adjust-image{
+    background-color: #ffffff;
+    border-radius: 0.3em;
+    margin: 0.4em;
+}
+.adjust-image-box img{
+    padding: 5px;
+    width: 70%;
+}
+.adjust-image{
+    width: 90%;
+    padding: 18px 10px;
+}
+.adjust-title h1{
+    color: #363958;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+}
+.contact-form{
+    background-color: #c7c7c7;
+    border-radius: 0.3em;
+    padding-top: 2em;
+}
+.contact-form form{
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+/* closing all css styling */

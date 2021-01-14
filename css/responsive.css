@@ -1,0 +1,62 @@
+@media(max-width:992px){
+    .all-card-button{
+        font-size: 20px;
+        padding: 5px 10px;
+        border-radius: 0.3em;
+    }
+    #first-button{
+        font-size: 20px;
+        padding: 5px 10px;
+        border-radius: 0.3em;
+    }  
+}
+@media(max-width:768px){
+    .adjust-image{
+        flex-direction: column;
+    }
+    .adjust-title h1{
+        text-align: center;
+    }
+    .adjust-image-box img{
+        width: 90%;
+    }
+    .icon-side-image{
+        padding: 10px;
+    }
+}
+@media(max-width:576px){
+    .all-card-button{
+        font-weight: bold;
+        font-size: 18px;
+        padding: 5px 10px;
+        border: 0;
+        border-radius: 0.2em;
+    }
+    #first-button{
+        font-weight: bold;
+        font-size: 18px;
+        padding: 5px 10px;
+        border: 0;
+        border-radius: 0.2em;
+    }
+    .nav-list-style .list-link{
+        padding: 5px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .row-col-first-h1{ 
+        font-size: 40px;  
+        font-family: 'Anton', sans-serif;
+    }
+    .row-col-second-h1{ 
+        font-size: 40px;  
+        font-family: 'Anton', sans-serif;
+    }
+    .jacket-card-title-color{
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .icon-side-image{
+        padding: 5px;
+    }
+}
